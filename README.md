@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Satish Salunke</h1>
 <h3 align="center">SY B.TECH Student🎓 in Information Technology</h3>
-
+<img align="right" alt="coding" width=400 src="![image](https://user-images.githubusercontent.com/119050714/215466151-f36a5c67-6495-4603-b96a-e0d61de12866.png)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-sss-555&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-sss-555" /> </p>
 
 <h3 align="left">Connect with me:</h3>
