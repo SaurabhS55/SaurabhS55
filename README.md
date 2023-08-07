@@ -13,7 +13,7 @@
 - 📫 How to reach me **saurabhsalunke91@gmail.com**
 
 - 📄 Know about my experiences [https://saurabhsalunke.netlify.app/IMAGES/saurabh.pdf](https://saurabhsalunke.netlify.app/IMAGES/saurabh.pdf)
-<a href="https://app.daily.dev/saurabh_555"><img src="https://api.daily.dev/devcards/cd4f9e8d0ff74c64afc243facec2dc96.png?r=2i5" width="400" alt="Saurabh Salunke's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/saurabh_555"><img src="https://api.daily.dev/devcards/cd4f9e8d0ff74c64afc243facec2dc96.png?r=2i5" width="400" alt="Saurabh Salunke's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://app.daily.dev/saurabh_555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/saurabh_555" height="30" width="40" /></a>
