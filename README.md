@@ -1,6 +1,6 @@
 ![logo](https://github.com/SaurabhS55/SaurabhS55/blob/main/logo.gif)
 <h1 align="center">Hi 👋, I'm Saurabh Satish Salunke</h1>
-<h3 align="center">SY B.TECH Student🎓 in Information Technology</h3>
+<h3 align="center">TY B.TECH Student🎓 in Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhs55&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhs55" /> </p>
 
