@@ -41,10 +41,12 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhS55&layout=compact&theme=nightowl" alt=SaurabhS55 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SaurabhS55&show_icons=true&locale=en&theme=nightowl" alt="SaurabhS55" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhS55&theme=nightowl" alt="SaurabhS55" /></p>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhS55&theme=nightowl" alt="SaurabhS55" /></p>
