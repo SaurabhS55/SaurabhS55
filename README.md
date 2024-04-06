@@ -4,6 +4,8 @@
 <div>- 📫 How to reach me <b>saurabhsalunke91@gmail.com</b></div>
 <div>- ⚡ Fun fact <b>I love listening to music</b></div>
 
+<a align="right" href="https://app.daily.dev/saurabh_555"><img src="https://api.daily.dev/devcards/cd4f9e8d0ff74c64afc243facec2dc96.png?r=2i5" width="300" alt="Saurabh Salunke's Dev Card" align="right"/></a>
+
 <br>
 
 <div> <a href="https://twitter.com/_saurabhsalunke" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
