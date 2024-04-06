@@ -42,7 +42,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhS55&layout=compact&theme=nightowl" alt=SaurabhS55 />
