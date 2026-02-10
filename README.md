@@ -1,9 +1,3 @@
-<h1 align="left">Hi 👋, I'm Saurabh Salunke</h1>
-<div>- 👯 I’m looking to collaborate on <b>Open Source Projects</b></div>
-<div>- 💬 Ask me about <b>MERN Stack, c++, Docker and K8</b></div>
-<div>- 📫 How to reach me <b>saurabhsalunke91@gmail.com</b></div>
-<div>- ⚡ Fun fact <b>I love listening to music</b></div>
-
 <a align="right" href="https://app.daily.dev/saurabh_555"><img src="https://api.daily.dev/devcards/cd4f9e8d0ff74c64afc243facec2dc96.png?r=2i5" width="300" alt="Saurabh Salunke's Dev Card" align="right"/></a>
 
 <br>
